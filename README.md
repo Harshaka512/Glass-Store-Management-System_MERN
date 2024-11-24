@@ -5,12 +5,19 @@ Project Name - Glass Store Management System
 Batch - Y2S2 Weekday
 
 Group Leader - IT22114112 - Chithrasena D.C.M.A (IT22114112)
+
 Member 2 - IT22239198 - Wickramarathne H.I.B (IT22239198)
+
 Member 3 - IT22201614 - Wickrmasinghe T.B.B (IT22201614)
+
 Member 4 - IT22198136 - Herath H.M.M.G.E.H.B. (IT22198136)
+
 Member 5 - IT22299970 - Praveesha R.G.R (IT22299970)
+
 Member 6 - IT22295392 - Priyashantha D G M D (IT22295392)
+
 Member 7 - IT22125002 - Dias K.T.D (IT22125002)
+
 Member 8 - IT22197832 - Tennakoon T.M.S.S (IT22197832)
 
 GROUP - ITP24J_B03_01
