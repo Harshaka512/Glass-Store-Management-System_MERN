@@ -22,6 +22,8 @@ Member 8 - IT22197832 - Tennakoon T.M.S.S (IT22197832)
 
 GROUP - ITP24J_B03_01
 
+Brief Description of the Project - 
+
 This repo is about the web application developed for our client glass shop. Currently, the business lacks an online presence, which limits its market reach and customer engagement. The absence of a website also leads to inefficiencies in inventory and order management, as well as missed opportunities for marketing and promotions.The system is composed of 8 major functions namely Sales and Financial Management, Product and Stock Management, Customer Management, Maintenance and Repair, Delivery Management, Order Management, Employee Management and Supplier Management.All these major functions have sub-functions within them that will replace the manual work that is being done by the client currently. The report describes the requirement gathering, designing, and testings we as a group carried out during developing this system. After the testing and evaluation phase ended, we decided that our client’s problem has been successfully resolved and it will satisfy the client's needs.
 
 Technologies used - MERN
